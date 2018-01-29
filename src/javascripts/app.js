@@ -1,18 +1,18 @@
 import './modules'
 
-console.log(`app.js has loaded!`);
+window.addEventListener("orientationchange", function () {
+  if (navigator.userAgent.match(/(iPhone|iPod|iPad)/i)) {
+    document.documentElement.innerHTML = document.documentElement.innerHTML;
+  }
+}, false);
 
-let a = document.querySelector("a");
+/*
+  if (conf4 !== 'pasta' && conf4 !== 'spaghetti' && conf4 !== 'italian') {
+    alert('WRONG, INTRUDER ALERT!!!!!!!!');
+    e.preventDefault();
+  }
+  */
 
-if (a) {
-  a.addEventListener("click", (e) => {
-    let conf = confirm('are you sure??? You do know this website is build by a hedgehog killer...');
-
-    if (!conf) {
-      e.preventDefault();
-    }
-  });
-}
 var COLORS, Confetti, NUM_CONFETTI, PI_2, canvas, confetti, context, drawCircle, drawCircle2,
   drawCircle3, i, range, xpos;
 
