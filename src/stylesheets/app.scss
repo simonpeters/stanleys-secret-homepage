@@ -63,16 +63,17 @@ html, body {
   position: relative;
   z-index: 20;
   text-align: center;
+  width: 100%;
 
   h1 {
     padding-top: 10px;
-    font-size: 10vw;
+    font-size: 50px;
   }
 
   img {
-    width: 80vw;
+    display: block;
+    width: 90%;
     margin: auto;
-    margin-bottom: 10px;
   }
 
 }
