@@ -1,15 +1,23 @@
 {#
-  Nunjucks Templating!
-  Homepage: https://mozilla.github.io/nunjucks/
-  Docs: https://mozilla.github.io/nunjucks/api.html
+Nunjucks Templating!
+Homepage: https://mozilla.github.io/nunjucks/
+Docs: https://mozilla.github.io/nunjucks/api.html
 #}
 
 {% extends 'layouts/application.html' %}
 
 {% block content %}
-  <div class="content fire-background">
-    <img src="images/stanley.png" class="stanley rotating">
+<div class="content fire-background">
+  <marquee behavior="scroll" direction="right" scrollamount="10"><p>
+    <strong>WELCOME TO STANLEYS BAD ASS SECRET HOMEPAGE</strong></p>
+  </marquee>
 
-    <a href="/suprise.html">PRESS AT OWN RISK</a>
-  </div>
+  <img src="images/stanley.png" class="stanley rotating">
+
+  <a href="/suprise.html">
+    <img src="images/danger-danger.gif" alt="">
+    PRESS AT OWN RISK
+    <img src="images/danger-danger.gif" alt="">
+  </a>
+</div>
 {% endblock %}

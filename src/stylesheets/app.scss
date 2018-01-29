@@ -19,14 +19,14 @@ html, body {
   position: absolute;
   width: 300px;
   left: calc(50% - 150px);
-  top: 40%;
+  top: calc(50% - 100px);
 }
 
 @keyframes rotating {
-  from{
+  from {
     -webkit-transform: rotate(0deg);
   }
-  to{
+  to {
     -webkit-transform: rotate(360deg);
   }
 }
@@ -44,10 +44,16 @@ a {
   left: 10px;
   right: 10px;
   margin: auto;
-  width: 300px;
   text-align: center;
-  padding: 10px;
+  padding: 20px;
   z-index: 2;
+  max-width: 320px;
+
+  img {
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 30px;
+  }
 }
 
 .suprise {
@@ -68,4 +74,83 @@ a {
     width: 80vw;
     margin: auto;
   }
+}
+
+
+p,h1,h2, h3 {
+
+  color: pink;
+  font-family: "Comic Sans MS", "arial", sans-serif;
+
+  margin: 10px auto;
+  padding: 10px;
+  text-align: center;
+  width: 80%;
+}
+
+p {
+  font-size: 20px;
+  background: black;
+
+}
+
+
+.rainbow h1 {
+  -webkit-animation:rainbow 1s infinite;
+  -ms-animation:rainbow 1s infinite;
+  -o-animation:rainbow 1s infinite;
+  animation:rainbow 1s infinite;
+}
+
+@-webkit-keyframes rainbow {
+  0% {color: #ff0000;}
+  10% {color: #ff8000;}
+  20% {color: #ffff00;}
+  30% {color: #80ff00;}
+  40% {color: #00ff00;}
+  50% {color: #00ff80;}
+  60% {color: #00ffff;}
+  70% {color: #0080ff;}
+  80% {color: #0000ff;}
+  90% {color: #8000ff;}
+  100% {color: #ff0080;}
+}
+@-ms-keyframes rainbow {
+  0% {color: #ff0000;}
+  10% {color: #ff8000;}
+  20% {color: #ffff00;}
+  30% {color: #80ff00;}
+  40% {color: #00ff00;}
+  50% {color: #00ff80;}
+  60% {color: #00ffff;}
+  70% {color: #0080ff;}
+  80% {color: #0000ff;}
+  90% {color: #8000ff;}
+  100% {color: #ff0080;}
+}
+@-o-keyframes rainbow {
+  0% {color: #ff0000;}
+  10% {color: #ff8000;}
+  20% {color: #ffff00;}
+  30% {color: #80ff00;}
+  40% {color: #00ff00;}
+  50% {color: #00ff80;}
+  60% {color: #00ffff;}
+  70% {color: #0080ff;}
+  80% {color: #0000ff;}
+  90% {color: #8000ff;}
+  100% {color: #ff0080;}
+}
+@keyframes rainbow {
+  0% {color: #ff0000;}
+  10% {color: #ff8000;}
+  20% {color: #ffff00;}
+  30% {color: #80ff00;}
+  40% {color: #00ff00;}
+  50% {color: #00ff80;}
+  60% {color: #00ffff;}
+  70% {color: #0080ff;}
+  80% {color: #0000ff;}
+  90% {color: #8000ff;}
+  100% {color: #ff0080;}
 }
