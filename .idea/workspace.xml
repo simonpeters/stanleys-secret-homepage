@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc0759d9-4342-4105-a849-df5a6761b038" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/images/location/60.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/html/location.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/location.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javascripts/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/javascripts/app.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -40,8 +37,8 @@
       <file leaf-file-name="location.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/html/location.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="96" selection-start-line="15" selection-start-column="96" selection-end-line="15" selection-end-column="96" />
+            <state relative-caret-position="168">
+              <caret line="51" column="113" selection-start-line="51" selection-start-column="113" selection-end-line="51" selection-end-column="113" />
             </state>
           </provider>
         </entry>
@@ -269,12 +266,12 @@
       <workItem from="1524592629471" duration="754000" />
       <workItem from="1525270091483" duration="5559000" />
       <workItem from="1525299749047" duration="95000" />
-      <workItem from="1525719967660" duration="1390000" />
+      <workItem from="1525719967660" duration="1618000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14801000" />
+    <option name="totallyTimeSpent" value="15029000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -485,8 +482,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/html/location.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="96" selection-start-line="15" selection-start-column="96" selection-end-line="15" selection-end-column="96" />
+        <state relative-caret-position="168">
+          <caret line="51" column="113" selection-start-line="51" selection-start-column="113" selection-end-line="51" selection-end-column="113" />
         </state>
       </provider>
     </entry>
