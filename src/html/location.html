@@ -1,0 +1,58 @@
+{% extends 'layouts/application.html' %}
+
+{% block content %}
+<div class="location">
+  {# hier komt de slider #}
+  {# voeg alle images toe, voeg tekst op sommige toe #}
+  {# add full text option #}
+
+  <h1>Welcome to the treasure hunt!</h1>
+
+  <div class="slick">
+    {% for i in range(1, 60) -%}
+    <div class="slide">
+      <img src="images/location/{{ i }}.jpg" alt="">
+      {% if i == 1 %}
+        <div class="caption">Make sure you're standing here, no cheating now!</div>
+      {% endif %}
+
+      {% if i == 2 %}
+      <div class="caption">Follow the pictures until further instructions...</div>
+      {% endif %}
+
+      {% if i == 7 %}
+      <div class="caption">Go sit on this bench.</div>
+      {% endif %}
+
+      {% if i == 8 %}
+      <div class="caption">Please contemplate life, and take some time to realise how awesome your boyfriend is.</div>
+      {% endif %}
+
+      {% if i == 9 %}
+      <div class="caption">Continue following the pictures</div>
+      {% endif %}
+
+      {% if i == 14 %}
+      <div class="caption">If open, go inside and pet some animals! I WILL KNOW IF YOU SKIPPED THIS!</div>
+      {% endif %}
+
+      {% if i == 15 %}
+      <div class="caption">Turn around and start following again</div>
+      {% endif %}
+
+      {% if i == 37 %}
+      <div class="caption">That was pretty useless...</div>
+      {% endif %}
+
+      {% if i == 50 %}
+      <div class="caption">OMG ITS A SQUIRREL</div>
+      {% endif %}
+
+      {% if i == 59 %}
+      <div class="caption">Look under the piece of wood!</div>
+      {% endif %}
+    </div>
+    {%- endfor %}
+  </div>
+</div>
+{% endblock %}

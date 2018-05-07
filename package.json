@@ -6,6 +6,8 @@
   "author": "Simon Peters <simon@unde.fined.io>",
   "license": "MIT",
   "dependencies": {
-    "blendid": "^4.4.2"
+    "blendid": "^4.4.2",
+    "jquery": "^3.3.1",
+    "slick-carousel": "^1.8.1"
   }
 }
