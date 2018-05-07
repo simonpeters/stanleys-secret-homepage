@@ -5,6 +5,7 @@ import 'slick-carousel';
 $('.slick').slick({
   dots: false,
   arrows: false,
+  infinite: false,
 });
 
 

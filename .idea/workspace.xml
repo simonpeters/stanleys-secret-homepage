@@ -2,78 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc0759d9-4342-4105-a849-df5a6761b038" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/images/location/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/27.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/28.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/29.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/30.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/31.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/32.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/33.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/34.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/35.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/36.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/37.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/38.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/39.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/40.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/41.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/42.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/43.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/44.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/45.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/46.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/47.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/48.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/49.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/50.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/51.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/52.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/53.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/54.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/55.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/56.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/57.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/58.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/59.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/location/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/slick.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/slick.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/slick.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/slick.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/location/60.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/task-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/task-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/html/layouts/application.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/layouts/application.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/location.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/location.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/javascripts/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/javascripts/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stylesheets/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/stylesheets/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -90,22 +22,54 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/html/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="34" />
+            <state relative-caret-position="204">
+              <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="location.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/location.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1534">
+              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="location.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/html/location.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="96" selection-start-line="15" selection-start-column="96" selection-end-line="15" selection-end-column="96" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/javascripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+            <state relative-caret-position="-81">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="slick.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/slick-carousel/slick/slick.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6715">
+              <caret line="2993" column="4" selection-start-line="2993" selection-start-column="4" selection-end-line="2993" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="60.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/images/location/60.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file leaf-file-name="_old.scss" pinned="false" current-in-tab="false">
@@ -132,10 +96,10 @@
         <option value="$PROJECT_DIR$/src/html/layouts/application.html" />
         <option value="$PROJECT_DIR$/src/stylesheets/base/_slick.scss" />
         <option value="$PROJECT_DIR$/src/stylesheets/app.scss" />
-        <option value="$PROJECT_DIR$/src/html/location.html" />
         <option value="$PROJECT_DIR$/src/html/index.html" />
         <option value="$PROJECT_DIR$/src/stylesheets/base/_old.scss" />
         <option value="$PROJECT_DIR$/src/javascripts/app.js" />
+        <option value="$PROJECT_DIR$/src/html/location.html" />
       </list>
     </option>
   </component>
@@ -197,6 +161,19 @@
               <item name="stanleys-secret-homepage" type="b2602c69:ProjectViewProjectNode" />
               <item name="stanleys-secret-homepage" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stanleys-secret-homepage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stanleys-secret-homepage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="location" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stanleys-secret-homepage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stanleys-secret-homepage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="javascripts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -251,15 +228,16 @@
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/static" />
-      <recent name="$PROJECT_DIR$/src/images" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/static" />
       <recent name="$PROJECT_DIR$/src/images/location" />
       <recent name="$PROJECT_DIR$/src/html" />
       <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/src/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/images/location" />
+      <recent name="$PROJECT_DIR$/src/static" />
       <recent name="$PROJECT_DIR$/src/images" />
     </key>
   </component>
@@ -291,25 +269,27 @@
       <workItem from="1524592629471" duration="754000" />
       <workItem from="1525270091483" duration="5559000" />
       <workItem from="1525299749047" duration="95000" />
+      <workItem from="1525719967660" duration="1390000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13411000" />
+    <option name="totallyTimeSpent" value="14801000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2920792" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.5494071" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3254282" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -321,19 +301,19 @@
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info id="Project" order="1" visible="true" weight="0.20721358" />
       <window_info id="Structure" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Run" order="5" />
-      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="2" visible="true" weight="0.32898173" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Message" order="3" />
       <window_info id="Favorites" order="0" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -344,6 +324,30 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stylesheets/base/_old.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javascripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/html/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -365,13 +369,6 @@
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/location.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -424,19 +421,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/jquery/dist/jquery.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/html/location.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javascripts/modules/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -458,13 +442,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/html/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/stylesheets/base/_old.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -472,13 +449,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/location/60.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/location.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1534">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/slick-carousel/slick/slick.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6715">
+          <caret line="2993" column="4" selection-start-line="2993" selection-start-column="4" selection-end-line="2993" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/javascripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+        <state relative-caret-position="-81">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/html/location.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="96" selection-start-line="15" selection-start-column="96" selection-end-line="15" selection-end-column="96" />
         </state>
       </provider>
     </entry>

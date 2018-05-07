@@ -9,11 +9,11 @@
   <h1>Welcome to the treasure hunt!</h1>
 
   <div class="slick">
-    {% for i in range(1, 60) -%}
+    {% for i in range(1, 61) -%}
     <div class="slide">
       <img src="images/location/{{ i }}.jpg" alt="">
       {% if i == 1 %}
-        <div class="caption">Make sure you're standing here, no cheating now!</div>
+        <div class="caption">Make sure you're standing here, no cheating now! Swipe to continue.</div>
       {% endif %}
 
       {% if i == 2 %}
@@ -50,6 +50,10 @@
 
       {% if i == 59 %}
       <div class="caption">Look under the piece of wood!</div>
+      {% endif %}
+
+      {% if i == 60 %}
+      <div class="caption">Hope you found it! If not, please call simon!</div>
       {% endif %}
     </div>
     {%- endfor %}
